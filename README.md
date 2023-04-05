@@ -1,3 +1,3 @@
 (P - project) REACT / GithubSearchRep App
 
-USED - React JS, TypeScript, Redux Toolkit, RTKQuery, Tailwind
+Used - React JS, TypeScript, Redux Toolkit, RTKQuery, Tailwind
